@@ -13,11 +13,11 @@
   --cor-11: #121212;
   --cor-12: #000000;
 
-  --cor-p01: #fb0;
-  --cor-p02: #e4a30b;
-  --cor-p03: #a66f00;
-  --cor-p04: #640;
-  --cor-p05: #320;
+  --cor-p1: #fb0;
+  --cor-p2: #e4a30b;
+  --cor-p3: #a66f00;
+  --cor-p4: #640;
+  --cor-p5: #320;
 }
 
 .cor-0 {
@@ -61,20 +61,20 @@
   color: var(--cor-12);
 }
 
-.cor-p01 {
-  color: var(--cor-p01);
+.cor-p1 {
+  color: var(--cor-p1);
 }
-.cor-p02 {
-  color: var(--cor-p02);
+.cor-p2 {
+  color: var(--cor-p2);
 }
-.cor-p03 {
-  color: var(--cor-p03);
-}
-
-.cor-p04 {
-  color: var(--cor-p04);
+.cor-p3 {
+  color: var(--cor-p3);
 }
 
-.cor-p05 {
-  color: var(--cor-p05);
+.cor-p4 {
+  color: var(--cor-p4);
+}
+
+.cor-p5 {
+  color: var(--cor-p5);
 }
