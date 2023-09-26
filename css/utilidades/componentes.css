@@ -37,6 +37,7 @@
   list-style: 1.33;
   font-family: "Roboto";
   font-weight: 600;
+  max-width: max-content;
 }
 
 .botao:hover {
