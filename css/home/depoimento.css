@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   background-color: var(--cor-p1);
+  overflow: hidden;
 }
 
 .depoimento img {
@@ -30,7 +31,6 @@
   font-size: 5rem;
   color: var(--cor-p2);
   position: absolute;
-  overflow: hidden;
 }
 
 .depoimento-conteudo p::before{

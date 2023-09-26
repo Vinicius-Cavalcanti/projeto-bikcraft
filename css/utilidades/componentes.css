@@ -22,7 +22,7 @@
   background-color: currentColor;
 }
 
-.link:hover{
+.link:hover {
   color: var(--cor-0);
 }
 .botao {
@@ -35,13 +35,23 @@
   color: #332200;
   font-size: 18px;
   list-style: 1.33;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   font-weight: 600;
 }
 
 .botao:hover {
   background-image: linear-gradient(180deg, #ffb60d, #e59317);
 }
+
+.botao.secundario {
+  background: var(--cor-10);
+  color: var(--cor-2);
+}
+
+.botao.secundario:hover {
+  background-color: var(--cor-9);
+}
+
 
 @media (max-width: 600px) {
   .introducao a {
